@@ -1,7 +1,7 @@
 # Teste para contratação de desenvolvedor(a) Frontend
 
 ### Cenário
-Um novo cliente da Target Software deseja criar um dashboard para apresentação dos resultados de algumas áreas da sua empresa. Ela espera que o sistemas que irá apresentar os dashboard contemple:
+Um novo cliente da Target Software deseja criar um dashboard para apresentação dos resultados de algumas áreas do ramo de vendas de canetas e lápis da sua empresa. Ela espera que o sistemas que irá apresentar os dashboard contemple:
 - Tela de login.
 - 2 (dois) modelos de dashboard de visualização de informações:
   - Enfase maior nos números;
@@ -11,8 +11,6 @@ Um novo cliente da Target Software deseja criar um dashboard para apresentação
   - Total de vendas por tipo de produto;
 - Menu de acesso para navegar entre as telas.
 - Tela de cadastro de usuário (CRUD).
-
-Realize um `fork` e suba o código desenvolvido dentro deste repositório.
 
 ### Protótipação
   - Desenvolver o protótipo acima usando a ferramenta Figma ou outra similar;
@@ -40,6 +38,8 @@ Realize um `fork` e suba o código desenvolvido dentro deste repositório.
   - Componentização no Figma;
   - Uso das bibliotecas (Bootstrap, Tailwind);
   - Organização e componentização de código;
+
+Realize um `fork` e suba o código desenvolvido dentro deste repositório.
 
 Os itens propostos são sugestões de implementações e padrões que serão utilizados nos desenvolvimentos dos projetos nos clientes.
 
