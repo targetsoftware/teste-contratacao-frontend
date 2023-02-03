@@ -26,7 +26,7 @@ Um novo cliente da Target Software deseja criar um dashboard para apresentação
   - Não é necessário autenticação ou comunicação com APIs;
   - Incluir pelo menos um exemplo de componentização;  
   - Incluir uma biblioteca de estilização e componentes
-    - Bootstrao, Tailwind
+    - Bootstrap, Tailwind
 
 ### O que será avaliado:
   - Criatividade e padrões na prototipação;
