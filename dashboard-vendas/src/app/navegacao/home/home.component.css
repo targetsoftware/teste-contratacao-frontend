@@ -1,0 +1,11 @@
+.container {
+  padding-top: 2rem;
+}
+
+.card {
+  border: solid 1px #bebebe;
+}
+
+.card-footer {
+  border-top: solid 1px #bebebe;
+}

@@ -1,0 +1,22 @@
+body {
+  font-family: var(--fonte-principal);
+}
+
+.bg-fundo {
+  background-color: var(--branco);
+}
+
+.bg-login {
+  background: #F2F2F2;
+  border: 1px solid #939393;
+  box-shadow: 5px 5px 8px #B5B5B5;
+  border-radius: 8px;
+}
+.link {
+  text-decoration: none;
+}
+
+.checbox {
+  display: flex;
+  text-align: start !important;
+}

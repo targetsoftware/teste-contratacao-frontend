@@ -1,0 +1,26 @@
+:root {
+  --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+  --branco: #FFFFFF;
+  --cinza-do-login: #e4e3e3;
+  --fonte-principal: "Inter";
+  --laranja: #F5EE30;
+  --azul: #0D6FFD;
+  --vermelho: #F94144;
+  --preto: #000000;
+  --cinza: #2E2F32;
+  --cinza-escuro: #191C20;
+
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+  font-family: var(--fonte-principal);
+  font-size: 16px!important;
+  font-weight: 400;
+  color: (--preto);
+}
+
+.icone {
+  color: #FFF;
+  font-size: 20px;
+}

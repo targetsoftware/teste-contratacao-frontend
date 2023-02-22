@@ -1,0 +1,30 @@
+.item__principal {
+  background-color: var(--cinza);
+}
+.col-lg-4, .col-md-6 {
+  padding: 1rem ;
+}
+
+.card-text-maior {
+  font-size: 36px;
+  font-weight: 700;
+  color: #FFF
+}
+
+.card-interno{
+  background-color: #191C20;
+  text-align: start;
+}
+
+.card-title {
+  color: #FFF;
+  font-size: 24px;
+}
+
+.fa {
+  font-size: 42px;
+}
+
+.table {
+  color: #FFF;
+}
