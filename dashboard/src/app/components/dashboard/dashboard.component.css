@@ -1,0 +1,44 @@
+.menu-top {
+  background-color: #000;
+  padding: 0 1rem;
+}
+.logo-tipo {
+  font-weight: 600;
+  font-size: 35px;
+  text-align: center;
+  width: 12rem;
+  color: #FFF;
+}
+.navegacao {
+  display: flex;
+  justify-content: space-between;
+}
+.submit-lente {
+  position:absolute;
+  top:0;right:0;
+  z-index:10;
+  border:none;
+  background:transparent;
+  outline:none;
+}
+
+.submit-line {
+  position: relative;
+  width: 100%;
+}
+
+.submit-line input {
+  width: 25rem;
+}
+
+input {
+  margin-left: 1rem;
+  border-radius: 8px;
+  height: 2rem;
+  width: 100%;
+  background-color: #191C20;
+  color: #FFF;
+}
+
+
+
